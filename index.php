@@ -8,8 +8,9 @@
     <meta property="og:title" content="Pico y Placa Colombia - Consulta Restricciones Hoy">
     <meta property="og:description" content="Información actualizada del pico y placa en las principales ciudades de Colombia">
     <meta property="og:image" content="/og-image.jpg">
-    <link rel="canonical" href="https://picoyplacacolombia.com">
-    <link rel="stylesheet" href="style.css">
+    <link rel="canonical" href="https://picoypl.com.co">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/js/script.js"></script>
 </head>
 <body>
     <div class="bg-animation"></div>
@@ -34,6 +35,8 @@
                 <a href="#login">Ingresar</a>
             </nav>
         </div>
+        <link rel="stylesheet" href="assets/css/style.css">
+        <script src="assets/js/script.js"></script>
     </header>
 
     <div class="container">
